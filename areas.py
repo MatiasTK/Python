@@ -113,7 +113,7 @@ def area(choice):
 choice = 0
 print("Bienvenido a la calculadora de areas!")
 while not choice > 0 and choice < 7:
-   choice = int(input("Elegi una opcion:\n1)Triangulo\n2)Cuadrado\n3)Circulo\n4)Rectangulo\n5)Cilindro\n6)Cono\n7)Esfera\n")) 
+    choice = int(input("Elegi una opcion:\n1)Triangulo\n2)Cuadrado\n3)Circulo\n4)Rectangulo\n5)Cilindro\n6)Cono\n7)Esfera\n")) 
 
 area(choice)
 

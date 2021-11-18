@@ -1,0 +1,3 @@
+Estoy escribiendo al principio
+Esta linea la he modificado en memoria
+Tercera linea del fichero
